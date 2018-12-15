@@ -1,0 +1,5 @@
+Andrzej Izar 30-111 43 
+Grzegorz Kozak 30-222 21 
+Irena Janbo 30-555 27 
+Jan Janowski 30-222 32 
+Kazimierz Retar 30-444 15
